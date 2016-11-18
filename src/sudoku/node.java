@@ -18,4 +18,8 @@ public class node {
 	public void updateValue(int value){
 		this.value=value;
 	}
+	
+	public int getValue(){
+		return this.value;
+	}
 }
